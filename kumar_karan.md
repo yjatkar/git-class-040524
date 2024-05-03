@@ -1,2 +1,2 @@
-Kumar Karan
-White
+- Kumar Karan
+- Blue
